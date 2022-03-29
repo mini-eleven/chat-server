@@ -1,0 +1,1 @@
+export * as dbConfig from './database.config'

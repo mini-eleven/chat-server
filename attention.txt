@@ -1,0 +1,3 @@
+1. 了解fastify框架
+2. 了解RXJS, 即Observable, 以及Observable与Promise的区别
+3. 了解nestjs的生命周期
